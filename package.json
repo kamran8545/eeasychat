@@ -1,0 +1,15 @@
+{
+  "name": "eeasychat",
+  "version": "1.0.0",
+  "description": "This is a random chat app.",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eeasychat",
+    "heroku"
+  ],
+  "author": "16SW16,16SW20,16SW54,16SW172,16SW180",
+  "license": "MIT"
+}
